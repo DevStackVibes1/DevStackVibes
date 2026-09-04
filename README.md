@@ -1,6 +1,6 @@
 <div align="center">
 
-# DevStackVibes
+# 🚀 DevStack-Vibes
 
 ### We build things that actually work.
 
@@ -21,6 +21,24 @@ We're a Pakistan-based software house building **web apps, AI-powered tools, and
 From face-authentication systems using deep learning to full-stack business management platforms, we handle the entire pipeline: design, development, deployment, and support. Clean code, clear communication, on-time delivery.
 
 If you're a client or a team looking for a partner who ships — let's talk.
+
+---
+
+## 💼 Services
+
+<div align="center">
+
+| | |
+|---|---|
+| 🌐 Website Development | 🖥️ Desktop Applications |
+| 📱 App Development | 📊 Management & Billing Systems |
+| 🛒 E-Commerce Store Development | ☁️ SaaS Development |
+| 🔌 API Development & Integration | 🎨 UI/UX Design |
+| 🖌️ Graphic Design & Branding | 📈 Digital Marketing |
+| 📣 Social Media Management | 🤝 Influencer Marketing |
+| 🎬 Video Editing | |
+
+</div>
 
 ---
 
